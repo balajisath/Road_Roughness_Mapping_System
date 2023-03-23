@@ -1,0 +1,8 @@
+Inception V3:
+
+1.	https://www.kaggle.com/datasets/felipemuller5/nienaber-potholes-1-simplex
+2.	https://www.kaggle.com/datasets/felipemuller5/nienaber-potholes-2-complex
+
+YOLO:
+
+
