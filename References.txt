@@ -1,0 +1,8 @@
+General References:
+
+1. Borgalli, Rohan. “Smart Pothole Detection and Mapping System.” Journal of Ubiquitous  Computing and Communication Technologies, vol. 2, no. 3, 2020, pp. 136–144., https://doi.org/10.36548/jucct.2020.3.003. 
+2. https://towardsdatascience.com/building-a-realtime-pothole-detection-system-using-machine-learning-and-computer-vision-2e5fb2e5e746
+
+Inception V3:
+
+YOLO:
