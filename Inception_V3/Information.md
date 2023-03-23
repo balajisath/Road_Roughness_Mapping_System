@@ -7,7 +7,7 @@ The following two datasets were used for training. The two sets were concatenate
 - [Nienaber_simple](https://www.kaggle.com/datasets/felipemuller5/nienaber-potholes-1-simplex)
 - [Nienaber_complex](https://www.kaggle.com/datasets/felipemuller5/nienaber-potholes-2-complex)
 
-![Image1](./images/image1.png)
+![image1](./image1.png)
 
 I downloaded the dataset from Kaggle to my Google Drive through Kaggle's API and a json file containing my username and key. I imported the dataset to my Google Colab notebook using the image_dataset_from_directory function offered by Keras. The dataset was split into training, validation, and test sets. The Inception V3 pre-trained model was imported from Keras without including the top layer. I added a set of new layers on top of the imported base model. I trained the net for 10 epochs (after freezing imported base layers and only changing the parameters of the newly added layers) with a large learning rate. Then, I trained the net for 15 epochs (after unfreezing all layers and changing parameters of both the base layers and newly added layers) with a small learning rate. I used the binary cross entropy loss and the sparse categorical cross entropy loss with the Adam optimizer.	
 
