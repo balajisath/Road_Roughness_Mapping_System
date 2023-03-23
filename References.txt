@@ -5,4 +5,10 @@ General References:
 
 Inception V3:
 
+1. https://keras.io/guides/transfer_learning/
+2. https://keras.io/api/applications/#usage-examples-for-image-classification-models
+3. https://keras.io/api/data_loading/
+4. https://medium.com/@italojs/saving-your-weights-for-each-epoch-keras-callbacks-b494d9648202
+5. https://datascience.stackexchange.com/questions/104572/does-validation-split-in-tf-keras-preprocessing-image-dataset-from-directory-res
+
 YOLO:
