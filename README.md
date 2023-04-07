@@ -19,6 +19,5 @@ We have been focusing mostly on computer vision and deep learning models. Our sy
 ## Trained Models
 
 - Inception V3 Image Classification Model
-- YOLO Object Detection Model
-- Machine Learning Model for Accelerometer Data Points
+- Z Peak Model with Iterative Selection Threshold Method for Accelerometer Data Points
 
