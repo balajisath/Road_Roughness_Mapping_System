@@ -11,4 +11,4 @@ Inception V3:
 4. https://medium.com/@italojs/saving-your-weights-for-each-epoch-keras-callbacks-b494d9648202
 5. https://datascience.stackexchange.com/questions/104572/does-validation-split-in-tf-keras-preprocessing-image-dataset-from-directory-res
 
-YOLO:
+
