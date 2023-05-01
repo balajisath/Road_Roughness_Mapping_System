@@ -21,7 +21,7 @@ We have been focusing mostly on computer vision and deep learning models. Our sy
 
 ## Setup
 
-There are two main python notebooks that implement the models. Both the notebooks are uploaded to the repository linked above. 
+There are two main python notebooks that implement the models. Both the notebooks are uploaded to this repository. 
 
 Senior_Design_Model1_Accelerometer.ipynb implements the Z Peak algorithm trained on the accelerometer data points. We used Python 3.10.7 for executing the notebook. You would need to have the correct version of Python to run the notebook. The required libraries and modules are mentioned in the python notebooks. You can install packages for python using the pip command if needed.
 
